@@ -12,7 +12,6 @@ Built using Spring Boot, React, MySQL, and Docker, ECHELON provides both vulnera
 - Toggle between vulnerable and secure implementations
 - Session-based authentication system
 - RESTful API architecture
-- Real-time frontend and backend interaction
 - Dockerized deployment setup
 - Deployed frontend and backend architecture
 
