@@ -8,6 +8,9 @@ spring:
     password: ${DATABASE_PASSWORD}
     driver-class-name: org.postgresql.Driver
 
+  frontend:
+    url: ${FRONTEND_URL}
+  
   hikari:
     maximum-pool-size: 5
     minimum-idle: 0
