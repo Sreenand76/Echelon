@@ -64,7 +64,7 @@ const Dashboard = () => {
       <div className="text-center py-8">
         <div className="flex items-center justify-center gap-3 mb-4">
           <FiShield className="w-12 h-12 text-blue-600" />
-          <h1 className="text-4xl font-bold text-gray-900">SecureScape</h1>
+          <h1 className="text-4xl font-bold text-gray-900">Echelon</h1>
         </div>
         <p className="text-xl text-gray-600 max-w-2xl mx-auto mb-6">
           An educational platform demonstrating common web security vulnerabilities 
